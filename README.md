@@ -1,2 +1,2 @@
-# scpstrategy-sourcecode
-Source code of SCP Strategy
+# SCP Strategy - source code
+The source code of SCP Strategy
