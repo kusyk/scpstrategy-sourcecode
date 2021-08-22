@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": "de",
+      "name": "Destructions",
+      "description": "Destructions – the game which gives an opportunity of complete damage at the levels which were created with an idea of destruction. All the objects may be completetly destroyed and the pieces of damaged buildings can turn visited places into a total ruin.",
+      "thumbnail": "http://api.lukaszkusyk.pl/games/de.png",
+      "link": "https://destructions.luxo-interactive.com/",
+      "info": ""
+    },
+    {
+      "id": "rk",
+      "name": "Relaxing Kite",
+      "description": "Wait! Pause for a moment and immerse yourself in some relaxing entertainment. Sit back, put on your headphones, and relax. The unique audiovisual experience will allow you to finally cut yourself off from everything and enjoy the game.",
+      "thumbnail": "http://api.lukaszkusyk.pl/games/rt.png",
+      "link": "https://store.steampowered.com/app/1475080/Relaxing_Kite/",
+      "info": "stare foto: http://api.lukaszkusyk.pl/games/rt.png"
+    },
+    {
+      "id": "ca",
+      "name": "Cyber Attack",
+      "description": "Take control of an elite global team of hackers, intercepting communications between corporations, governments, and criminals all around the world. You can protect humanity by exposing messages between dangerous individuals or exploit corporations to increase your fortune. The choice is yours!",
+      "thumbnail": "http://api.lukaszkusyk.pl/games/ca.png",
+      "link": "https://cyberattack-game.com/",
+      "info": ""
+    },
+    {
+      "id": "scp",
+      "name": "SCP Strategy",
+      "description": "Take control of the SCP Foundation. For the general good, find, contain, and protect SCP objects. Develop your foundation and protect it from hostile organizations, in the last resort destroy them and capture SCP objects held there.",
+      "thumbnail": "http://api.lukaszkusyk.pl/games/scp.png",
+      "link": "https://store.steampowered.com/app/1403020/SCP_Strategy/",
+      "info": ""
+    }
+  ]
+}

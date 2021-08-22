@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2535160394</PublishedFileId>
+  <Name>Steam Test 1</Name>
+  <Description>Inicjatory kolekcji umożliwiają określenie co najmniej jednego inicjatora elementu podczas inicjowania typu kolekcji, który implementuje i ma odpowiedni podpis jako metodę wystąpienia lub IEnumerable Add metodę rozszerzenia. Inicjatory elementów mogą być prostą wartością, wyrażeniem lub inicjatorem obiektu. Za pomocą inicjatora kolekcji nie trzeba określać wielu wywołań; Kompilator dodaje wywołania automatycznie.</Description>
+  <IconFileName>icon.png</IconFileName>
+  <Tags>
+    <string>Objects</string>
+  </Tags>
+</WorkshopItemInfo>
